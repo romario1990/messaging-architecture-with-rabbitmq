@@ -4,4 +4,6 @@ Application of messaging architecture with rabbitMQ to improve knowledge. The pr
 
 
 ## Initial Architecture
-![alt text](architecture.svg)
+<p align="center">
+  <img src="architecture.svg" />
+</p>
