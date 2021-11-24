@@ -4,4 +4,4 @@ Application of messaging architecture with rabbitMQ to improve knowledge. The pr
 
 
 ## Initial Architecture
-![alt text](https://app.diagrams.net/#G1taAidMoye-LmEhN61WgGZPG6841FmM_k)
+![alt text](https://drive.google.com/file/d/1taAidMoye-LmEhN61WgGZPG6841FmM_k/view?usp=sharing)
